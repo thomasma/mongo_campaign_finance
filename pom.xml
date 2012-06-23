@@ -78,9 +78,7 @@
 			<groupId>com.aver</groupId>
 			<artifactId>flatfilereader</artifactId>
 			<version>0.8</version>
-			<systemPath>/home/mathew/.m2/repository/com/aver/flatfilereader/0.8/flatfilereader-0.8.jar</systemPath>
-			<scope>system</scope>
 		</dependency>
 	</dependencies>
-	<artifactId>mongodb</artifactId>
+	<artifactId>mongo_campaign_finance</artifactId>
 </project>
